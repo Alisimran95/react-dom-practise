@@ -56,7 +56,7 @@
             "categoryId":"2",
             "year":"2021",
             "description":"Samsung Galaxy s10",
-            "imageUrl":"images/samsung.webp"
+            "imageUrl":"/images/samsung.webp"
         },
         {
             "id":"5",
@@ -65,7 +65,7 @@
             "categoryId":"2",
             "year":"2021",
             "description":"Iphone X ",
-            "imageUrl":"images/iphone.jpeg"
+            "imageUrl":"/images/iphone.jpeg"
 
         },
         {
