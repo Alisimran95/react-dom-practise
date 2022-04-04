@@ -1,0 +1,120 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "firstName":"Ali",
+            "lastName":"Mammadli",
+            "email":"alisimranem@code.edu.az" 
+        },
+        {
+            "id":"2",
+            "firstName":"Idris",
+            "lastName":"Jafarzade",
+            "email":"idris@code.edu.az" 
+        },
+        {
+            "id":"Admin",
+            "firstName":"Admin",
+            "lastName":"Admin",
+            "email":"admin@code.edu.az" 
+        }
+
+    ],
+    "products":[
+        {
+            "id":"1",
+            "productName":"Asus",
+            "price":"2000",
+            "categoryId":"1",
+            "year":"2019",
+            "description":"Asus Tuf Gaming Laptop",
+            "imageUrl":"/images/asus.jfif"
+        },
+        {
+            "id":"2",
+            "productName":"Lenovo",
+            "price":"1500",
+            "categoryId":"1",
+            "year":"2020",
+            "description":"Lenovo Thinkpad Programming Laptop",
+            "imageUrl":"/images/lenovolaptop.webp"
+
+        },
+        {
+            "id":"3",
+            "productName":"Apple",
+            "price":"3000",
+            "categoryId":"1",
+            "year":"2019",
+            "description":"Apple Engineering Laptop",
+            "imageUrl":"/images/apple.jpeg"
+        },
+        {
+            "id":"4",
+            "productName":"Samsung",
+            "price":"800",
+            "categoryId":"2",
+            "year":"2021",
+            "description":"Samsung Galaxy s10",
+            "imageUrl":"images/samsung.webp"
+        },
+        {
+            "id":"5",
+            "productName":"Iphone",
+            "price":"1000",
+            "categoryId":"2",
+            "year":"2021",
+            "description":"Iphone X ",
+            "imageUrl":"images/iphone.jpeg"
+
+        },
+        {
+            "id":"6",
+            "productName":"Nokia",
+            "price":"600",
+            "categoryId":"2",
+            "year":"2021",
+            "description":"OldNokia OldNokia OldNokia",
+            "imageUrl":"/images/Nokia_3310_front_side.jpg"
+        },
+        {
+            "id":"7",
+            "productName":"Nokia",
+            "price":"600",
+            "categoryId":"2",
+            "year":"2010",
+            "description":"Nokia Nokia Nokia",
+            "imageUrl":"/images/nokia-7.jpg"
+        },
+        {
+            "id":"8",
+            "productName":"Nokia",
+            "price":"1000",
+            "categoryId":"2",
+            "year":"2015",
+            "description":"OldNokia OldNokia OldNokia",
+            "imageUrl":"/images/Nokia_3310_front_side.jpg"
+
+        },
+        {
+            "id":"9",
+            "productName":"Lenovo",
+            "price":"1500",
+            "categoryId":"1",
+            "year":"2020",
+            "description":"Lenovo Programming Laptop",
+            "imageUrl":"/images/lenovolaptop.webp"
+
+        }
+    ],
+    "categories":[
+        {
+            "id":"1",
+            "categoryName":"Laptop"
+        },
+        {
+            "id":"2",
+            "categoryName":"Smartphone"
+        }
+    ]
+}   
